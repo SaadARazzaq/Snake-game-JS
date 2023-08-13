@@ -19,7 +19,7 @@ A simple Snake game implemented using HTML, CSS, and JavaScript. 🎮 Play the c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Snake-Game-JS.git
+   git clone https://github.com/SaadARazzaq/Snake-Game-JS.git
 
 2. Open index.html in your web browser.
 3. Use arrow keys to control the snake and enjoy the game! 🎉
